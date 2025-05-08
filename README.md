@@ -16,7 +16,7 @@ Word2Vec is a popular algorithm developed by Google that converts words into hig
 
 - **Python 3**
 - **Gensim** – for Word2Vec implementation
-- **NLTK / SpaCy** – for text preprocessing (if used)
+- **NLTK** – for text preprocessing 
 - **Scikit-learn / Matplotlib / Seaborn** – for visualization
 - **Pandas / NumPy** – for data handling
 
